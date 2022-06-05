@@ -1,4 +1,4 @@
-import list2Tree from './list2Tree'
+import list2Tree from '../list2Tree'
 
 const list = [
   {
