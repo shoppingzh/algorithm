@@ -6,11 +6,15 @@
   "author": "shoppingzh <xpzheng6@163.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/jest": "^28.1.4",
     "@types/lodash": "^4.14.182",
-    "typescript": "^4.7.3"
+    "jest": "^28.1.2",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.4"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "jest"
   },
   "dependencies": {
     "lodash": "^4.17.21"
