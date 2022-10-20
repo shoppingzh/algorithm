@@ -10,3 +10,9 @@
 - parseInt实现
 - 字符串回文判断
 - 斐波那契数列（✓）
+- new实现（✓）
+- 千分位格式化
+- Function.prototype.bind实现
+- Function.prototype.apply
+- Function.poototype.call
+
